@@ -7,7 +7,7 @@
 - Ways to contact me:
 - Mail1: keshavsinghal2002@gmail.com
 - Mail2: kyzen1711@gmail.com
-Thank you for coming to this remote corner of the internet. (I sure hope it doesn't always remain remote)
+- Thank you for coming to this remote corner of the internet. (I sure hope it doesn't always remain remote)
 
 <!---
 KyZEN1711/KyZEN1711 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
