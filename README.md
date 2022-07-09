@@ -2,7 +2,7 @@
 
 - KyZEN1711 here, known as Keshav IRL (will love if more people called me KyZEN but Keshav ain't too bad either)
 - Made this page to upload some code which someone may (or may not) find useful 
-- Interested in C++,python libraries, want to get going with some ML and AI (guess this point is my 'code' wishlist)
+- Interested in C++,python libraries, want to get better at ML and DSP (guess this point is my 'code' wishlist)
 - Will appreciate any feedback/comments about any work I put up here
 - Ways to contact me:
 - Mail1: keshavsinghal2002@gmail.com
